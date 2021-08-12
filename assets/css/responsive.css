@@ -229,4 +229,7 @@
     .container-contact h2 {
         font-size: 20px;
     }
+    .content-item .content-icon img {
+        width: 200px;
+    }
 }
